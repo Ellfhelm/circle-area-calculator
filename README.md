@@ -4,7 +4,7 @@ This is a simple Java program that calculates the area of a circle based on the 
 
 ## Features
 
-- Prompts the user for the radius of the circle.
+- Prompts the user for the radius of the circle. 5
 - Calculates the area using the formula `πr²`.
 - Outputs the calculated area.
 
